@@ -6,9 +6,13 @@ mint_kde_login_theme
 It's a MDM (HTML5) login theme made from "Razmo-MDM" theme. Here is a beautiful login theme made to replace the default Mint KDE, being better for "Plasma Desktop". We thank our friend "Razmo-MDM"!
 
 Put the main folder into:
-/usr/share/mdm/html-themes
 
+```
+/usr/share/mdm/html-themes
+```
 Enjoy!
+
+![alt tag](https://github.com/eduardolucioac/mint_kde_login_theme/blob/master/img/preview.jpg)
 
 TIP!
 -----
@@ -62,5 +66,3 @@ Right click on it, edit the path in the link's Properties to point to your theme
 ```
 
 Save. Logout. Voila.
-
-![alt tag](https://github.com/eduardolucioac/mint_kde_login_theme/blob/master/img/preview.jpg)
